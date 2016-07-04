@@ -1,0 +1,42 @@
+h1 {
+	color: #ffffff;
+	font: "Times New Roman";
+	text-align: center;
+}
+
+body {
+	background: #900c3F;
+}
+
+a:link {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #C70039;
+	text-decoration: none;
+}
+
+a:active {
+	color: #000000;
+	text-decoration: none;
+}
+
+p {
+	font-size: large;
+	color: #ffffff;
+	text-align: center;
+}
+
+img {
+	display: block;
+	margin: auto;
+	width: 20%;
+	border-radius: 20px;
+}
